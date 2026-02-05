@@ -14,17 +14,17 @@ menu:
   - title: Home
     url: /
   - title: About
-    url: /aboutvFrames & Frequencies | The blog of Arya
+    url: /about 
   - title: Contact
     url: /contact
   - title: Feed
     url: /feed.xml
 email: youremail@test.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: /by/arya_pandit
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: xqedzyyv
 
 
 # Social Media Settings
@@ -46,7 +46,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://github.com/aryapandit200408" # the base hostname & protocol for your site
+url: "https://aryapandit200408.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
