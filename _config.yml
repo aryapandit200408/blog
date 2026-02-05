@@ -1,8 +1,8 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Arya Blog
+title: Frames & Frequencies | The blog of Arya
+description: This is the blog of Arya Pandit, make yourself at home!
+
 tags:
   - blog
   - template
@@ -14,7 +14,7 @@ menu:
   - title: Home
     url: /
   - title: About
-    url: /about
+    url: /aboutvFrames & Frequencies | The blog of Arya
   - title: Contact
     url: /contact
   - title: Feed
