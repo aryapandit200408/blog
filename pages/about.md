@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="https://github.com/aryapandit200408/blog/blob/64b81b93b9ad528f3a436c5e79ec0a0debdfacbf/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
+<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
 
 # About
 
