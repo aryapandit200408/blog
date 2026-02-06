@@ -7,7 +7,10 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.jpeg" alt="Govind Singh Virdee" width="200">
+<!-- <img class="img-rounded" src="/assets/img/uploads/profile.jpeg" alt="Govind Singh Virdee" width="200"> -->
+
+<img src="{{ site.baseurl }}/assets/img/uploads/profile.jpeg">
+
 
 # About
 
