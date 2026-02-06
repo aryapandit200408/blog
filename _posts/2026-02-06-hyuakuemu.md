@@ -4,7 +4,7 @@ layout: post
 title: "Hyuakuemu"
 subtitle:
 description:
-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMDKSwu_bpQvKcXem2LeFofSkAXZ2pmIRjdg&s
+image: {{ site.baseurl }}/src/img/post/photo_1.jpg
 optimized_image:
 category: anime
 tags: 
