@@ -10,7 +10,7 @@ category: life
 tags:
   - books
   - read
-author: mranderson
+# author: mranderson
 paginate: true
 ---
 

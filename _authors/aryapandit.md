@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: https://github.com/aryapandit200408/blog/blob/64b81b93b9ad528f3a436c5e79ec0a0debdfacbf/assets/img/uploads/profile.png
+photo: /assets/img/profile.jpg
 name: mranderson
 display_name: Arya Pandit
 position: The One

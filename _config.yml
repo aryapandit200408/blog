@@ -16,11 +16,11 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
+  # - title: Feed
+  #   url: /feed.xml
 email: aryapandit200408@gmail.com
 # See: https://disqus.com/
-disqus_username: arya_pandit
+disqus_username: 
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: f/xqedzyyv
@@ -40,14 +40,14 @@ linkedin_username: arya-pandit-146023250
 show_time_bar: true
 show_modal_on_exit: false
 show_modal_on_finish_post: true
-two_columns_layout: true
+two_columns_layout: false
 
 
 # Advanced Settings
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://aryapandit200408.github.io" # the base hostname & protocol for your site
-# baseurl: ""
-# url: ""
+# baseurl: "/blog" # the subpath of your site, e.g. /blog
+# url: "https://aryapandit200408.github.io" # the base hostname & protocol for your site
+baseurl: ""
+url: ""
 google_analytics: "G-2M2NHN12N1"
 language: "en"
 categories_folder: category

@@ -15,11 +15,11 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
+  # - title: Feed
+  #   url: /feed.xml
 email: aryapandit200408@gmail.com
 # See: https://disqus.com/
-disqus_username: arya_pandit
+disqus_username: 
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: f/xqedzyyv
