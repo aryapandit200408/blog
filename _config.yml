@@ -1,5 +1,5 @@
 # Site Settings
-name: Arya Blog
+name: Frames & Frequencies | The blog of Arya
 title: Frames & Frequencies | The blog of Arya
 description: This is the blog of Arya Pandit, make yourself at home!
 
@@ -45,7 +45,7 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/blog/" # the subpath of your site, e.g. /blog
 url: "https://aryapandit200408.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
