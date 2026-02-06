@@ -47,11 +47,25 @@ function config() {
  * 
  * @param {*} done 
  */
+// function jekyll(done) {
+//   notify('Building Jekyll...');
+//   let bundle = process.platform === "win32" ? "bundle.bat" : "bundle";
+//   return cp
+//     .spawn(bundle, ['exec', 'jekyll build'], { stdio: 'inherit' })
+//     .on('close', done);
+// }
+
 function jekyll(done) {
   notify('Building Jekyll...');
-  let bundle = process.platform === "win32" ? "bundle.bat" : "bundle";
+  
+  // On Windows, use 'bundle.bat', otherwise use 'bundle'
+  const bundle = process.platform === "win32" ? "bundle.bat" : "bundle";
+  
   return cp
-    .spawn(bundle, ['exec', 'jekyll build'], { stdio: 'inherit' })
+    .spawn(bundle, ['exec', 'jekyll', 'build'], { 
+      stdio: 'inherit', 
+      shell: true  // <--- This is the critical fix for Node 18 + Windows
+    })
     .on('close', done);
 }
 
