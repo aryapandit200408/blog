@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/profile.jpg
+photo:
 name: mranderson
 display_name: Arya Pandit
 position: The One
