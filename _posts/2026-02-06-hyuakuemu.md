@@ -4,7 +4,7 @@ layout: post
 title: "Hyuakuemu"
 subtitle:
 description:
-image: {{ site.baseurl }}/src/img/post/photo_1.jpg
+image: "{{ site.baseurl }}/src/img/post/photo_1.jpg"
 optimized_image:
 category: anime
 tags: 
