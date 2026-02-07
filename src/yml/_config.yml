@@ -64,8 +64,8 @@ exclude: [
   'Gemfile',
   'Gemfile.lock',
   'gulpfile.js',
-  'README.md'
+  'README.md' 
 ]
 
 # Theme
-version: v3.1.2
+# version: v3.1.2
