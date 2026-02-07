@@ -4,7 +4,7 @@ layout: post
 title: "Hyuakuemu"
 subtitle:
 description:
-image: https://github.com/aryapandit200408/blog/blob/master/src/img/post/photo_1.jpg?raw=true
+image: https://github.com/aryapandit200408/blog/blob/master/src/img/post/photo_2.jpg?raw=true
 optimized_image:
 category: anime
 tags: 
