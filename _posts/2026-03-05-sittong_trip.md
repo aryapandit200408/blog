@@ -51,7 +51,7 @@ On the way we stopped at a small roadside spot for some good old Darjeeling tea 
 
 <figure>
   <img
-    src="https://github.com/aryapandit200408/blog/blob/master/src/img/sittong_trip/photo_5.png?raw=true"
+    src="https://github.com/aryapandit200408/blog/blob/master/src/img/sittong_trip/photo_5.jpg?raw=true"
      alt="The beautiful MDN logo."
      style="float: center; height: 40%; width: 40%;">
   <figcaption>Sittong, the Land of the Silent Hills</figcaption>
@@ -61,7 +61,7 @@ From there we visited the Dow Hill School, a place famous not only for its colon
 
 <figure>
   <img
-    src="https://github.com/aryapandit200408/blog/blob/master/src/img/sittong_trip/photo_3.png?raw=true"
+    src="https://github.com/aryapandit200408/blog/blob/master/src/img/sittong_trip/photo_3.jpg?raw=true"
      alt="The beautiful MDN logo."
      style="float: center; height: 40%; width: 40%;">
   <figcaption>Sittong, the Land of the Silent Hills</figcaption>
@@ -71,7 +71,7 @@ Later we reached the Chimney Tea Garden viewpoint, where the mist rolled softly 
 
 <figure>
   <img
-    src="https://github.com/aryapandit200408/blog/blob/master/src/img/sittong_trip/photo_2.png?raw=true"
+    src="https://github.com/aryapandit200408/blog/blob/master/src/img/sittong_trip/photo_2.jpg?raw=true"
      alt="The beautiful MDN logo."
      style="float: center; height: 40%; width: 40%;">
   <figcaption>The Watch at Chimney Tea Estate</figcaption>
@@ -101,7 +101,7 @@ Our first destination was the Mahal Diram Tea Estate, arguably one of the most s
 
 <figure>
   <img
-    src="https://github.com/aryapandit200408/blog/blob/master/src/img/sittong_trip/photo_9.png?raw=true"
+    src="https://github.com/aryapandit200408/blog/blob/master/src/img/sittong_trip/photo_9.jpg?raw=true"
      alt="The beautiful MDN logo."
      style="float: center; height: 40%; width: 40%;">
   <figcaption></figcaption>
@@ -121,7 +121,7 @@ Our next stop was Namthing Pokhri, a lake that had dried up due to the dry seaso
 
 <figure>
   <img
-    src="https://github.com/aryapandit200408/blog/blob/master/src/img/sittong_trip/photo_10.png?raw=true"
+    src="https://github.com/aryapandit200408/blog/blob/master/src/img/sittong_trip/photo_10.jpg?raw=true"
      alt="The beautiful MDN logo."
      style="float: center; height: 40%; width: 40%;">
   <figcaption>Flags, Flags and Flags</figcaption>
