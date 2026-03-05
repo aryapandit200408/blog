@@ -4,7 +4,7 @@ layout: post
 title: "Sittong: In the Land of the Misty Hills"
 subtitle: Six friends, misty hills, and a memory we’ll carry forever.
 description: 
-image: 
+image: https://github.com/aryapandit200408/blog/blob/master/src/img/sittong_trip/photo_15.jpg?raw=true
 optimized_image:
 category:
 tags:
@@ -23,7 +23,7 @@ paginate: false
 
 <figure>
   <img
-    src="https://github.com/aryapandit200408/blog/blob/master/src/img/sittong_trip/photos_1.png?raw=true"
+    src="https://github.com/aryapandit200408/blog/blob/master/src/img/sittong_trip/photo_1.png?raw=true"
      alt="The beautiful MDN logo."
      style="float: center; height: 40%; width: 40%;">
   <figcaption>The final journey</figcaption>
@@ -197,3 +197,10 @@ And somehow, those simple moments made the entire journey feel magical.
   <figcaption>Beautiful things don’t ask for attention.</figcaption>
 </figure>
 
+<figure>
+  <img
+    src="https://github.com/aryapandit200408/blog/blob/master/src/img/sittong_trip/photo_17.jpg?raw=true"
+     alt="The beautiful MDN logo."
+     style="float: center; height: 40%; width: 40%;">
+  <figcaption>Cheers to more such memories</figcaption>
+</figure>
