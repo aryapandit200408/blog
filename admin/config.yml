@@ -185,6 +185,10 @@ collections:
         name: "medium_username"
         widget: "string"
         required: false
+      - label: "Youtube Username"
+        name: "youtube_username"
+        widget: "string"
+        required: false
   - label: "Settings"
     name: "settings"
     editor:
@@ -269,6 +273,10 @@ collections:
             required: false
           - label: "Medium Username"
             name: "medium_username"
+            widget: "string"
+            required: false
+          - label: "Youtube Username"
+            name: "youtube_username"
             widget: "string"
             required: false
       - label: "Theme"

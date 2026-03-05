@@ -10,6 +10,7 @@ facebook_username: profile.php?id=100085243396208
 twitter_username: PanditArya80743
 instagram_username: superstitious_ap
 linkedin_username: arya-pandit-146023250
+youtube_username: AryaPandit2004
 # medium_username: medium_username
 ---
 

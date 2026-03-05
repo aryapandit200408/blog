@@ -30,6 +30,11 @@
           <svg><use xlink:href="#icon-linkedin"></use></svg>
         </a>
       {% endif %}
+      {% if site.youtube_username %}
+        <a href="https://www.youtube.com/@{{ site.youtube_username }}" title="YouTube">
+          <svg><use xlink:href="#icon-youtube"></use></svg>
+        </a>
+      {% endif %}
     </p>
 
     {% include links.html %}
@@ -57,6 +62,9 @@
 {% endif %}
 {% if site.linkedin_username %}
     {% assign social_urls = social_urls | append: '"https://www.linkedin.com/in/' | append: site.linkedin_username | append: '",' %}
+{% endif %}
+{% if site.youtube_username %}
+    {% assign author_urls = author_urls | append: '"https://www.youtube.com/@' | append: site.youtube_username | append: '",' %}
 {% endif %}
 
 <script type="application/ld+json">
