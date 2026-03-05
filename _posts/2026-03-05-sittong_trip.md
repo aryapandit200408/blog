@@ -18,7 +18,7 @@ paginate: false
 
 <blockquote class="highlight">
 “It's a dangerous business, Frodo, going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to.”
-  <div style="text-align:right; margin-top:6px;">— Frodo Baggins</div>
+  <div style="text-align:right; margin-top:6px;">— Bilbo Baggins, The Fellowship of the Ring</div>
 </blockquote>
 
 <figure>
@@ -92,7 +92,7 @@ After a late lunch, the evening slowed down beautifully with potato chops and cu
 
 <blockquote class="highlight">
 “Not all those who wander are lost.”
-  <div style="text-align:right; margin-top:6px;">— Gandalf, in the The Fellowship of the Ring</div>
+  <div style="text-align:right; margin-top:6px;">— Gandalf, in The Fellowship of the Ring</div>
 </blockquote>
 
 I woke up early the next morning hoping to catch the sunrise and perhaps a glimpse of Kanchenjunga. But the mountains had other plans. The mist had wrapped the entire valley in soft white silence. Oddly enough, the absence of the sunrise made the morning even more peaceful. The hills looked dreamy, almost suspended in time. Before leaving for the day, we took a small morning walk around our homestay, breathing in the crisp mountain air.
