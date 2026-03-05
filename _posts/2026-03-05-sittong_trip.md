@@ -54,7 +54,7 @@ On the way we stopped at a small roadside spot for some good old Darjeeling tea 
     src="https://github.com/aryapandit200408/blog/blob/master/src/img/sittong_trip/photo_5.jpg?raw=true"
      alt="The beautiful MDN logo."
      style="float: center; height: 40%; width: 40%;">
-  <figcaption>Sittong, the Land of the Silent Hills</figcaption>
+  <figcaption></figcaption>
 </figure>
 
 From there we visited the Dow Hill School, a place famous not only for its colonial architecture but also for its eerie reputation and haunting legends. It's sister school, the Victoria Boys School has been closed owing appearances of these omnious sightings. The Gothic Architecture along with the thick mist that surronding the place, certainly gives of a Silent-Hills-esque vibe to the place.  Whether one believes the stories or not, the surrounding forest certainly carries a mysterious stillness.
@@ -158,7 +158,7 @@ The monastery itself was quaint and modest, yet incredibly charming, sitting qui
     src="https://github.com/aryapandit200408/blog/blob/master/src/img/sittong_trip/photo_12.jpg?raw=true"
      alt="The beautiful MDN logo."
      style="float: center; height: 40%; width: 40%;">
-  <figcaption>The quaint monastery</figcaption>
+  <figcaption>The quaint monastery of Toryok Gumba</figcaption>
 </figure>
 
 Along the way we met a local resident who kindly invited us to his home and pointed us toward a hidden forest trail leading to a lesser known viewpoint. His warmth and hospitality added another unexpected moment to our wandering day.
