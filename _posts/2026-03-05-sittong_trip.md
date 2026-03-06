@@ -6,8 +6,9 @@ subtitle: Six friends, misty hills, and a memory we’ll carry forever.
 description: 
 image: https://github.com/aryapandit200408/blog/blob/master/src/img/sittong_trip/photo_15.jpg?raw=true
 optimized_image:
-category:
+category: travel
 tags:
+    - lifestyle
 author:
 paginate: false
 ---
@@ -111,7 +112,7 @@ Next we stopped at an orange orchard. Unfortunately the season had ended about a
 
 <figure>
   <img
-    src="https://github.com/aryapandit200408/blog/blob/master/src/img/sittong_trip/photo_11_1.jpg" 
+    src="https://github.com/aryapandit200408/blog/blob/master/src/img/sittong_trip/photo_11_1.jpg?raw=true"
      alt="The beautiful MDN logo."
      style="float: center; height: 40%; width: 40%;">
   <figcaption>Enjoying the view from Ahaldhara</figcaption>
