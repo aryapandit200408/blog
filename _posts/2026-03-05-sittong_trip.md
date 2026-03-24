@@ -9,7 +9,7 @@ optimized_image:
 category: travel
 tags:
     - lifestyle
-author:
+author: aryapandit
 paginate: false
 ---
 
