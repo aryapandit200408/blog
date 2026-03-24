@@ -4,7 +4,7 @@ layout: post
 title: "anini-trip"
 subtitle:
 description:
-image: 
+image: https://github.com/aryapandit200408/blog/blob/master/src/img/anini_trip/cover.jpeg
 optimized_image:
 category:
 tags:
