@@ -1,0 +1,25 @@
+<div class="carousel"
+     style="
+       --carousel-height: {{ include.height | default: page.carousel_height | default: '350px' }};
+       --carousel-width: {{ include.width | default: page.carousel_width | default: '100%' }};
+       --carousel-fit: {{ include.fit | default: page.carousel_fit | default: 'cover' }};
+       --carousel-radius: {{ include.radius | default: page.carousel_radius | default: '12px' }};
+     ">
+
+  <div class="carousel-track">
+    {% for slide in include.slides %}
+      <div class="carousel-slide">
+        <img src="{{ slide.image }}" alt="{{ slide.title }}">
+        {% if slide.title %}
+          <div class="carousel-caption">
+            <h3>{{ slide.title }}</h3>
+          </div>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+
+  <button class="carousel-btn prev">&#10094;</button>
+  <button class="carousel-btn next">&#10095;</button>
+  <div class="carousel-dots"></div>
+</div>

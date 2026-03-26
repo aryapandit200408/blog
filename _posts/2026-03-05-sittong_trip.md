@@ -34,7 +34,7 @@ We were a group of six university students, setting out on what would become our
 
 For years this journey had lived inside our group chat. It was proposed enthusiastically, postponed endlessly, and resurrected every few months with renewed determination. Somehow, between assignments, exams, placements, internships, and life’s chaos, the plan finally escaped the chat and became real.
 
-What followed was three days in the misty hills of Sittong. It was a trip filled with tea (pun-intended), wandering roads, loyal mountain dogs, and the quiet magic of the mountains.
+What followed was three days in the misty hills of Sittong. It was a trip filled involving tea (pun-intended), wandering roads, loyal mountain dogs, and the quiet magic of the mountains.
 
 ## Into the Silent Hills
 
