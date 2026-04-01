@@ -45,7 +45,7 @@ carousel_2:
   - image: https://github.com/aryapandit200408/blog/blob/master/src/img/anini_trip/photo_8.jpg?raw=true
     # title: Anini Valley
 
-carousel_3:
+carousel_6:
   - image: https://github.com/aryapandit200408/blog/blob/master/src/img/anini_trip/photo_11.jpg?raw=true
     # title: Anini Valley
 
@@ -177,15 +177,20 @@ emerald-green Dree River, waterfalls, lush pine forests, bamboo groves and sight
 Some highlights included a visit to Mawu Falls and spending time at the beautiful Chigu Camp.
 
 <figure>
-{% include carousel.html slides=page.carousel_3 %}
-  <figcaption>On the road to Anini</figcaption>
+{% include carousel.html slides=page.carousel_6 %}
+  <figcaption></figcaption>
 </figure>
 
 Finally we arrived at Dree Afra Camp where we spent the night.
 
 <figure>
+{% include carousel.html slides=page.carousel_3 %}
+  <figcaption>At the Dree Afra Camp</figcaption>
+</figure>
+
+<figure>
 {% include carousel.html slides=page.carousel_4 %}
-  <figcaption>On the road to Anini</figcaption>
+  <figcaption>Some sights around the Dree Afra Camp</figcaption>
 </figure>
 
 If the skies are clear and you're lucky, the area reveals itself as a pristine Bortle Class 3 zone which mean it is perfect for witnessing a breathtaking, star-filled night sky.
@@ -215,4 +220,4 @@ This marked the end of the first leg of our journey through Arunachal Pradesh an
 
 
 
-{% include carousel.html slides=page.carousel %}
+<!-- {% include carousel.html slides=page.carousel %} -->
