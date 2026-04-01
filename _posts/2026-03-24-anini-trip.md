@@ -148,7 +148,7 @@ On the way we passed through the Mayodia Pass which is the highest point of Mish
 
 <figure>
 {% include carousel.html slides=page.carousel_2 %}
-  <figcaption>On the road to Anini</figcaption>
+  <figcaption>At Mayodia Pass</figcaption>
 </figure>
 
 
