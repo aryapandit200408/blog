@@ -15,17 +15,7 @@ paginate: false
 carousel_height: 500px
 carousel_width: 80%
 carousel_fit: cover
-carousel_radius: 20px
-carousel:
-  - image: https://github.com/aryapandit200408/blog/blob/master/src/img/anini_trip/photo_1.png?raw=true
-    title: Anini Valley
-
-  - image: https://github.com/aryapandit200408/blog/blob/master/src/img/anini_trip/photo_5.jpg?raw=true
-    title: Anini Valley
-
-  - image: https://github.com/aryapandit200408/blog/blob/master/src/img/anini_trip/photo_3.jpg?raw=true
-    title: River view
-    caption: Pure serenity
+carousel_radius: 20p
 
 carousel_1:
   - image: https://github.com/aryapandit200408/blog/blob/master/src/img/anini_trip/photo_4.jpg?raw=true
@@ -220,4 +210,3 @@ This marked the end of the first leg of our journey through Arunachal Pradesh an
 
 
 
-<!-- {% include carousel.html slides=page.carousel %} -->
