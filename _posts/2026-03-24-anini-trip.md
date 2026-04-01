@@ -12,8 +12,8 @@ tags:
 author: aryapandit
 paginate: false
 
-carousel_height: 500px
-carousel_width: 80%
+carousel_height: 100%
+carousel_width: 100%
 carousel_fit: cover
 carousel_radius: 20p
 
