@@ -166,11 +166,11 @@ Along the way we met a local resident who kindly invited us to his home and poin
 
 And throughout this entire adventure, we were not alone.
 
-Two mountain dogs from our homestay had decided to accompany us. They walked with us the whole way — sometimes beside us, sometimes ahead as if guiding the path. When we briefly lost our way, they seemed to know exactly where to go.
+Two mountain dogs from our homestay had decided to accompany us. They walked with us the whole way... sometimes beside us, sometimes ahead as if guiding the path. When we briefly lost our way, they seemed to know exactly where to go.
 
 At one point, when one of our friends had to return early to the homestay due to some urgent work, one of the dogs actually accompanied him back, faithfully guiding him along the winding trail.
 
-It felt strangely magical — like the mountains themselves had sent us guides.
+It felt strangely magical. As if the mountains themselves had sent us guides.
 
 <figure>
   <img
@@ -182,7 +182,7 @@ It felt strangely magical — like the mountains themselves had sent us guides.
 
 That night, we gathered outside for a barbecue roast under the open night sky, sharing food, laughter, and stories.
 
-The next morning arrived too quickly. We packed our bags, checked out of the homestay, and began the journey back down the hills to catch our trains — carrying with us memories of misty roads, quiet monasteries, and a little mountain magic.
+The next morning arrived too quickly. We packed our bags, checked out of the homestay, and began the journey back down the hills to catch our trains carrying with us memories of misty roads, quiet monasteries, and a little mountain magic.
 
 ## Into the Wild (for a Weekend)
 

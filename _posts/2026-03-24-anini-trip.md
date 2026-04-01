@@ -66,6 +66,26 @@ We reached Roing by dusk and chose to stay near the outskits of the town towards
 </figure>
 
 
-## Day 2 and rest... Coming Soon!
+## Day 2: On the way to Anini
+This was the start of a very scenic journey as we entered the Mishmi Hills. Owing to the great road conditions (barring a few places) and such stunning views the journey of more than 200 Kms to Anini didn't feel much at all. 
+
+On the way we passed through the Mayodia Pass which is the highest point of Mishmi Hills perching at around 2,655 meters (8,711 feet) above sea level. It is known for receiving heavy snowfall between November and February making it a poupular tourist hub. The route from Roing to Mayodia is also very famous for Bird Watching. 
+
+
+
+The rest of the day was spent in travelling, we reached our Homestay near Anini Town at around 5pm in the afternoon. 
+
+## Day 3: The highlight of the trip - Acheso and Dree Valley
+From Anini we went deeper into Dree valley to the small village of Acheso. Acheso is about 40 Kms from Anini and is famous for its emerald-like Dree River, waterfalls, lush pine forests, bamboo groves and sights of Mithuns. 
+
+
+
+If the skies are clear and you're lucky, the area reveals itself as a pristine Bortle Class 3 zone—perfect for witnessing a breathtaking, star-filled night sky.
+
+## Day 4: Return to Roing and start of the second part of our trip
+The day after, we undertook a 300Kms trip back to Roing. 
+
+
+
 
 <!-- {% include carousel.html slides=page.carousel %} -->
